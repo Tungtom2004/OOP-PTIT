@@ -3,7 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 package javabasic;
-
+// DIT ME MAY MO RA CC
 
 
 //Scanner sc = new Scanner(System.in); DUNG KHI MUON NHAP DU LIEU
